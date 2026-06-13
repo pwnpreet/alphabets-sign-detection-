@@ -1,0 +1,11 @@
+this dataset is hand sign image dataset for American Sign language alphabets.
+
+each row: one image.
+
+we have 784 pixels columns because image size is 28x28.
+pixels shows grayscale intensity of image.
+0 -> black
+255 -> white
+
+label columns: predict the sign . 
+letter J and Z are missing because they require motion. 

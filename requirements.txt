@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+numpy
+scikit-learn
+matplotlib 
+
+These libraries will covers:
+streamlit frontend
+CNN model loading
+Image preprocessing
+Label decoding
+plots
