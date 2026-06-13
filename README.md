@@ -30,10 +30,14 @@ The dataset used in this project was obtained from kaggle.
 ```bash
 pip install -r requirements.txt
 ```
+
 ## Webapp preview
 ![Home Page](assets/home.png)
+--- 
 ![Model Info](assets/model%20info.png)
+---
 ![Prediction](assets/predict.png)
+---
 
 ## Technologies used
 - Python
