@@ -31,7 +31,9 @@ The dataset used in this project was obtained from kaggle.
 pip install -r requirements.txt
 ```
 ## Webapp preview
-
+![Home Page](assets/home.png)
+![Model Info](assets/model_info.png)
+![Prediction](assets/predict.png)
 
 ## Technologies used
 - Python
