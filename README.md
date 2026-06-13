@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 ## Webapp preview
 ![Home Page](assets/home.png)
-![Model Info](assets/model%info.png)
+![Model Info](assets/model%20info.png)
 ![Prediction](assets/predict.png)
 
 ## Technologies used
